@@ -1,5 +1,5 @@
 {
-  "name": "live-alert-bp-style-postcss",
+  "name": "live-alert-bp-formatter-postcss",
   "version": "1.0.0",
   "description": "The PostCSS message style for live-alert-bp",
   "main": "index.js",
@@ -14,6 +14,10 @@
   ],
   "author": "Somin Yuri",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semiromid/live-alert-bp-formatter-postcss"
+  },   
   "dependencies": {
     "lodash.merge": "^4.6.2"
   }
