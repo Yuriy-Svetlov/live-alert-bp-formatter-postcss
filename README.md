@@ -11,8 +11,10 @@ npm i live-alert-bp-formatter-postcss --save-dev
 ## How to use
 
 ```javascript
+  const formatterPostCSS = require("live-alert-bp-formatter-postcss");
+
   liveAlert.open(
-    liveAlertFormatterPostCSS(MessagesPostCSS)
+    formatterPostCSS(MessagesPostCSS)
   );
 ```
 
