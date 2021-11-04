@@ -1,6 +1,6 @@
 {
   "name": "live-alert-bp-formatter-postcss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The PostCSS message style for live-alert-bp",
   "main": "index.js",
   "scripts": {
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/semiromid/live-alert-bp-formatter-postcss"
+    "url": "https://github.com/Yuriy-Svetlov/live-alert-bp-formatter-postcss"
   },   
   "homepage": "https://live-alert-browser-page.com",
-  "bugs": "https://github.com/semiromid/live-alert-bp-formatter-postcss/issues",
+  "bugs": "https://github.com/Yuriy-Svetlov/live-alert-bp-formatter-postcss/issues",
   "dependencies": {
     "lodash.merge": "^4.6.2"
   }

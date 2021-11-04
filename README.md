@@ -1,6 +1,6 @@
 # Live Alert BP Formatter PostCSS
 
-The PostCSS message formatter for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+The PostCSS message formatter for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 
 ##  Install
@@ -21,7 +21,7 @@ npm i live-alert-bp-formatter-postcss --save-dev
 
 ## Examples how to use
 
-[Example for Grunt](https://github.com/semiromid/live-alert-bp/tree/master/documentation/examples/grunt/sass-postcss-formatters)
+[Example for Grunt](https://github.com/Yuriy-Svetlov/live-alert-bp/tree/master/documentation/examples/grunt/sass-postcss-formatters)
 
 ## API
 
@@ -31,7 +31,7 @@ const formatterPostCSS = require("live-alert-bp-formatter-postcss");
 formatterPostCSS(messages, user_style, show_input_file)
 ```
 
-* return:  formatted messages for [live-alert-bp](https://github.com/semiromid/live-alert-bp)
+* return:  formatted messages for [live-alert-bp](https://github.com/Yuriy-Svetlov/live-alert-bp)
 
 #### messages
 * Type: `Array`
